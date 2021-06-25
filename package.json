@@ -1,0 +1,23 @@
+{
+  "name": "com.quanvh.tracking",
+  "version": "1.0.0",
+  "displayName": "Tracking",
+  "description": "facebook, firebase tracking for Unity",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+ },
+ "keywords": [
+    "quanvh",
+    "tripsoft",
+    "unity"
+  ],
+  "author": {
+    "name": "QuanVH",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
